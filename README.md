@@ -103,7 +103,7 @@ class HealthActuators:
 if __name__ == "__main__":
     patient_data = {
         'patient_id': 1237,
-        'name': 'subiksha ',
+        'name': 'aparna'
         'age': 20
     }
 
@@ -117,7 +117,17 @@ if __name__ == "__main__":
     health_monitoring_agent.monitor_health()
 ```
 ## OUTPUT:
-<img width="410" height="347" alt="image" src="https://github.com/user-attachments/assets/71fe7641-66b4-4730-b61a-c99f15e98478" />
+
+
+
+<img width="1335" height="1178" alt="Terminal Patient Health Report" src="https://github.com/user-attachments/assets/6eaddb81-8003-4827-b39f-6c16355f6b60" />
+',
+
+
+
+
+
+
 
 ## RESULT:
 Thus, developed AI agent with PEAS.
