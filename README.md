@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: SUBIKSHA K</h3>
-<h3>Register Number: 212224040332</h3>
+<h3>Name: APARNA M</h3>
+<h3>Register Number: 212223220008</h3>
 
 
 <h3>AIM:</h3>
